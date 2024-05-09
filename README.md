@@ -10,7 +10,7 @@ Your friendly neighborhood coder 🕸️ :)
 * ✉️  You can contact me at [francolepe169@gmail.com](mailto:francolepe169@gmail.com)
 * 🧠  I'm learning Algorithms and data structures
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Things that make me excited are playing guitar, MMA and Watches
+* ⚡  Things I like outside of coding are playing guitar, MMA and Watches
 
 ### Skills
 
